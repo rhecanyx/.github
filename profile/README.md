@@ -8,6 +8,7 @@
 
 - [Teknokodi](https://www.teknokodi.com/)
 - [Mino Öğretiyor](https://www.youtube.com/channel/UCP0wfuaYyjgeX-EexdwZ6dA)
+- [Google Play](https://play.google.com/store/apps/dev?id=7966042004896209024)
 
 ## EN
 
@@ -17,6 +18,7 @@ Video tutorials for children, blog posts, mobile and web applications, coding tr
 
 - [Teknokodi](https://www.teknokodi.com/)
 - [Mino Öğretiyor](https://www.youtube.com/channel/UCP0wfuaYyjgeX-EexdwZ6dA)
+- [Google Play](https://play.google.com/store/apps/dev?id=7966042004896209024)
 
 ---
 
