@@ -1,12 +1,23 @@
-## Hi there 👋 We are Rhecanyx
+![Rhecanyx on Github](/images/rhecanyx-on-github.png)
 
-<!--
+## TR
 
-**Here are some ideas to get you started:**
+### Neler Yapıyoruz
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+Çocuklar için video eğitimler, blog yazıları, mobil ve web uygulamaları, yazılımcılar için kodlama eğitimleri...
+
+- [Teknokodi](https://www.teknokodi.com/)
+- [Mino Öğretiyor](https://www.youtube.com/channel/UCP0wfuaYyjgeX-EexdwZ6dA)
+
+## EN
+
+### What We Do
+
+Video tutorials for children, blog posts, mobile and web applications, coding training for software developers...
+
+- [Teknokodi](https://www.teknokodi.com/)
+- [Mino Öğretiyor](https://www.youtube.com/channel/UCP0wfuaYyjgeX-EexdwZ6dA)
+
+---
+
+Daha fazlası için [Rhecanyx](https://www.rhecanyx.com/)
